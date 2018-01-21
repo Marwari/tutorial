@@ -1,10 +1,10 @@
-# What's next?
+# आगे क्या होगा?
 
-Congratulate yourself! **You're totally awesome**. We're proud! <3
+बधाई हो! **आप कमाल के है**. हमें गर्व हैं! <3
 
-### What to do now?
+### अब क्या करे?
 
-Take a break and relax. You have just done something really huge.
+अभी आप ब्रेक लें और आराम करो. You have just done something really huge.
 
 After that, make sure to follow Django Girls on [Facebook](http://facebook.com/djangogirls) or [Twitter](https://twitter.com/djangogirls) to stay up to date.
 
